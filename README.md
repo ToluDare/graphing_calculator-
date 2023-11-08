@@ -17,5 +17,9 @@ At that moment two things came up in Tolu's mind:
    - **graphics.py** for the display of the graph
    - **Stacks** for the processing of variables
    - and of course, **Object Oriented Programming** for structure.
-   
+
+## Planning and Logic
+####                                                        *˜”*°•.˜”*°• "He who fails to plan, is planning to fail" •°*”˜.•°*”˜*
+​
+                     
 
